@@ -14,3 +14,10 @@ Realizar un WAF (Web application Firewall) con alguno de los siguientes elemento
 1. Aplicar reglas de acceso (denegar y permitir ciertos sitios)
 2. Funcione en forma inversa y transparente
 3. Balancear 2 sitios web (del mismo servicio)
+
+---
+
+##### Avances
+
+- Se pudo instalar el VM Ware para maquinas virtuales
+- Se pudo instalar ubuntu (tuve varias fallas al hacerlo pero ya se solucionaron)
